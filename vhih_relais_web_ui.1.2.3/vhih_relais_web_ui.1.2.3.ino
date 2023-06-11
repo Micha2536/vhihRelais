@@ -219,7 +219,6 @@ void loop() {
   switching_off();
   toggle();
   rssif();
-  delay(50);
 }
 
 void http_GET() {
