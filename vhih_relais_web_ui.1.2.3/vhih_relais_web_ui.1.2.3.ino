@@ -42,17 +42,17 @@ nodeAttributes* na1_4;
 nodeAttributes* na2_4;
 nodeAttributes* na3_4; // Zeitablauf
 
-nodeAttributes* na40_5; // Tasterr 1
-nodeAttributes* na41_5; // Tasterr 1
+nodeAttributes* na40_5; // Taster 1
+nodeAttributes* na41_5; // Taster 1
 
-nodeAttributes* na40_6; // Tasterr 2
-nodeAttributes* na41_6; // Tasterr 2
+nodeAttributes* na40_6; // Taster 2
+nodeAttributes* na41_6; // Taster 2
 
-nodeAttributes* na40_7; // Tasterr 3
-nodeAttributes* na41_7; // Tasterr 3
+nodeAttributes* na40_7; // Taster 3
+nodeAttributes* na41_7; // Taster 3
 
-nodeAttributes* na40_8; // Tasterr 4
-nodeAttributes* na41_8; // Tasterr 4
+nodeAttributes* na40_8; // Taster 4
+nodeAttributes* na41_8; // Taster 4
 
 const int relay = 16;//13
 const int relay2 = 14;//12
